@@ -1,6 +1,6 @@
 # ESP8266-projects
 These files will help you setup a tiny web server on your ESP8266 with micropython firmware.
-was develop for use on ESP12-E and ESP12-E.
+was develop for use on ESP12-E and ESP12-F.
 
 main.py is meant to run on boot up once copied to esp chip.
   - Will serve on IP address of ESP with port 8080
